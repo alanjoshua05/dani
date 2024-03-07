@@ -71,23 +71,9 @@
     "team": [
         {
             "img": "https://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg",
-            "name": "Alan Joshua",
-            "about": "IIT Madras"
-        },
-        {
-            "img": "https://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg",
-            "name": "Geofreey bellson Daniel",
-            "about": "JRF (Junior Research Fellowship)\n CSIR (AIR 73)"
-        },
-        {
-            "img": "https://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg",
-            "name": "Geofreey bellson Daniel",
-            "about": "JRF (Junior Research Fellowship)\n CSIR (AIR 73)"
-        },
-        {
-            "img": "https://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg",
-            "name": "Geofreey bellson Daniel",
-            "about": "JRF (Junior Research Fellowship)\n CSIR (AIR 73)"
+            "name": "Geofrey Bellson Daniel",
+            "about": "JRF [AIR 73]",
+            "description": "Patrick Sébastien, born November 14, 1953 in Brive-la-Gaillarde, is an imitator, humorist, actor, director, singer, songwriter, poet, writer."
         }
     ],
     "publication": [
