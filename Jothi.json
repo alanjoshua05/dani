@@ -2,7 +2,7 @@
     "new": [
         {
             "news": "hello alan how are you?",
-            "display": "none"
+            "show": "none"
         }
     ],
     "lab": [
