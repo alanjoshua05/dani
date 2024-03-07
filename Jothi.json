@@ -1,7 +1,8 @@
 {
     "new": [
         {
-            "news": "hello alan how are you?"
+            "news": "hello alan how are you?",
+            "display": "none"
         }
     ],
     "lab": [
